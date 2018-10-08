@@ -1,0 +1,29 @@
+[33mcommit 82b0a12a41858c82a206037e36eeb2daf0864b58[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: erick <erick.e.trevino@crimsonroot.com>
+Date:   Mon Oct 8 12:49:14 2018 -0500
+
+    Modify index.js to include speedtest route. Create speedtest.ejs file with embeded Speed Test Custom.
+
+[33mcommit 75495e98fe7be8288a1fcfd0a4ec7bd7c1cda369[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: erick <erick.e.trevino@crimsonroot.com>
+Date:   Mon Oct 8 12:02:02 2018 -0500
+
+    Modify home.ejs to include header and footer partials. Create Partials directory. Create header.ejs and footer.ejs files. Add Semantic UI CSS, JQuery, Semantic UI JS support on header.ejs file.
+
+[33mcommit 21b863cd813828d418503a32f4e66723ef968c8a[m
+Author: erick <erick.e.trevino@crimsonroot.com>
+Date:   Mon Oct 8 11:39:24 2018 -0500
+
+    Add Index.js with EJS View Engine and public express static. Create public, views directories. Create home.ejs file.
+
+[33mcommit c57248704b30e47c7a4c39aa73418b4fdff9ae46[m
+Author: erick <erick.e.trevino@crimsonroot.com>
+Date:   Sun Oct 7 18:30:25 2018 -0500
+
+    Add package.json with express and ejs as dependencies.
+
+[33mcommit 02a510e5a07b89136e99b08acdb53a77f6da25fe[m
+Author: eetrevino <43939500+eetrevino@users.noreply.github.com>
+Date:   Sun Oct 7 18:28:06 2018 -0500
+
+    Initial commit
